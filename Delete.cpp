@@ -82,6 +82,7 @@ void Delate(Contect* abs)
 			cout << "\t\t\t请重新输入：";
 			cin >> a.name;
 		}
+		cout << endl;
 		cout << "\t\t\t确认删除？（1 是 0 否）" << endl;
 		cout << "\t\t\t请选择【0-1】：";
 		int sel_3;
