@@ -81,6 +81,7 @@ void Clear(Contect* abs)
 				abs->List[i] = { 0 };
 			}
 			abs->size = 0;
+			cout << "\t\t\tÇå¿Õ³É¹¦£¡";
 		}
 		else if (sel == 2)
 			return;
